@@ -1,0 +1,15 @@
+{
+  "name": "jira-tickets",
+  "version": "0.1.0",
+  "author": { "name": "James Amoore" },
+  "description": "A desktop pane linking the Jira tickets worked on in the current session",
+  "types": "./types/index.d.ts",
+  "userConfig": {
+    "jiraBaseUrl": {
+      "type": "string",
+      "title": "Jira site URL",
+      "description": "Your Atlassian site, e.g. https://example.atlassian.net",
+      "default": ""
+    }
+  }
+}

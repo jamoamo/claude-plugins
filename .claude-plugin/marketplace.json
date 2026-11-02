@@ -1,0 +1,5 @@
+{
+  "name": "jamoamo-plugins",
+  "owner": { "name": "James Amoore" },
+  "plugins": [{ "name": "jira-tickets", "source": "./plugins/jira-tickets" }]
+}
